@@ -2,14 +2,15 @@
 	{	
 	    "name": "Prova1",
             "Rating": "8.16",
+	    "categorie":"Superiori| Italiano | Prime",
 	    "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
-            "categorie":"Superiori| Italiano | Prime",
-        },	
+            
+        }	
 	
 	{	
 	    "name": "Prova2",
             "Rating": "4",
-	    "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
             "categorie":"Superiori| Matematica | Seconde",
-        },	
+            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
+        }	
 ]
