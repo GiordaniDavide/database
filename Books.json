@@ -5,7 +5,7 @@
 	    "categorie":"Superiori| Italiano | Prime",
 	    "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
             
-        }; 	
+        },	
 	
 	{	
 	    "name": "Prova2",
@@ -13,8 +13,6 @@
             "categorie":"Superiori| Matematica | Seconde",
             "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
         }	
-<<<<<<< HEAD
+
 ]
-=======
-]
->>>>>>> 805fa031c831a28c5d2b4433d3e5d64198652f18
+
