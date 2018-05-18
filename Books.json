@@ -5,7 +5,7 @@
            "editore" : "Davide",
            "prezzo" : "$ 3",
             "autor" : 	"StayBookTrader"
-	    "img": "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
+	    "img" : "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
 	    
             
         },	
@@ -16,7 +16,7 @@
            "editore" : "Davide",
            "prezzo" : "$ 8",
             "autor" : 	"StayBookTrader"
-	    "img": "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
+	    "img" : "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
         }	
 
 ]
