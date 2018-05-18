@@ -1,17 +1,22 @@
 [
 	{	
-	    "name": "Prova1",
-            "Rating": "8.16",
-	    "categorie":"Superiori| Italiano | Prime",
+	   "name" : "Prova1",
+           "Rating" : "1",
+           "editore" : "Davide",
+           "prezzo" : "$ 3",
+            "autor" : 	"StayBookTrader"
 	    "img": "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
+	    
             
         },	
 	
 	{	
-	    "name": "Prova2",
-            "Rating": "4",
-            "categorie":"Superiori| Matematica | Seconde",
-            "img": "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
+	   "name" : "Prova2",
+           "Rating" : "2",
+           "editore" : "Davide",
+           "prezzo" : "$ 8",
+            "autor" : 	"StayBookTrader"
+	    "img": "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
         }	
 
 ]
