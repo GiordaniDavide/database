@@ -2,7 +2,7 @@
 	{	
 	   "name" : "Prova1",
            "editore" : "Davide",
-           "prezzo" : "$ 3",
+           "prezzo" : "3",
             "autor" : 	"StayBookTrader"
 	    "img" : "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
 	    
@@ -12,7 +12,7 @@
 	{	
 	   "name" : "Prova2",
            "editore" : "Davide",
-           "prezzo" : "$ 8",
+           "prezzo" : "8",
             "autor" : 	"StayBookTrader"
 	    "img" : "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
         }	
