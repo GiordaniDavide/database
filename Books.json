@@ -3,7 +3,7 @@
 	    "name": "Prova1",
             "Rating": "8.16",
 	    "categorie":"Superiori| Italiano | Prime",
-	    "img": "https://www.google.it/search?q=immagini+libro&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiP9d_Y2I3bAhWCaVAKHTqmANkQ_AUICigB&biw=2048&bih=1046#imgrc=IuEfB8p9jwt5kM:"
+	    "img": "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
             
         },	
 	
@@ -11,7 +11,7 @@
 	    "name": "Prova2",
             "Rating": "4",
             "categorie":"Superiori| Matematica | Seconde",
-            "img": "https://www.google.it/search?q=immagini+libro&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiP9d_Y2I3bAhWCaVAKHTqmANkQ_AUICigB&biw=2048&bih=1046#imgrc=IuEfB8p9jwt5kM:"
+            "img": "http://www.oltrelebarriere.net/wp-content/uploads/libri.jpeg"
         }	
 
 ]
